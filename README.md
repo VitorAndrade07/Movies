@@ -1,12 +1,11 @@
-# React + Vite
+# Movie Discovery Platform (React + Vite)
+A high-performance web application built with **React** and **Vite**, focusing on seamless data fetching and a modern user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🛠️ Tech Stack & Features:
+* **React & Vite:** Leveraging Fast Refresh and optimized builds for a superior development workflow.
+* **API Integration:** Dynamic data fetching from movie databases to provide up-to-date cinema information.
+* **Asynchronous JavaScript:** Expert use of `async/await` to handle external requests without blocking the UI.
+* **Modern UI:** A responsive design focused on accessibility and clean data presentation.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🧠 Why it matters:
+This project highlights my ability to bridge the gap between complex data (APIs) and the final user, using the most modern tools in the JavaScript ecosystem.
